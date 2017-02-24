@@ -22,18 +22,28 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        Button btn = (Button) findViewById(R.id.btnok);
-        btn.setOnClickListener(new View.OnClickListener() {
+        Button banky = (Button) findViewById(R.id.btnok);
+        banky.setOnClickListener(this::date);
+        /*{
             @Override
             public void onClick(View view) {
                 TextView txt = (TextView) findViewById(R.id.txtdate);
                 txt.setText(new Date().toString());
 
             }
-        });
+        });*/
+
+
+
 
     }
 
+    private void date(View view) {
+
+        TextView txt = (TextView) findViewById(R.id.txtdate);
+        txt.setText(new Date().toString());
+
+    }
 
 
 }
