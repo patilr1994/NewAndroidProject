@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context="com.example.nestedlayout.MainActivity"
+    android:padding="15dp"
+    >
+
+    <LinearLayout
+
+        android:id="@+id/linearlayout"
+        android:layout_height="100dp"
+        android:layout_width="match_parent"
+        android:weightSum="1"
+       >
+
+        <Button
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="0.3"
+            android:layout_margin="10dp"
+            android:text="Profession"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="0.7"
+            android:layout_margin="10dp"
+            android:text="Android Developer"
+            android:textAllCaps="false"/>
+        </LinearLayout>
+
+
+
+    <LinearLayout
+
+        android:layout_below="@+id/linearlayout"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:weightSum="1"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:layout_height="0dp"
+            android:layout_width="match_parent"
+            android:layout_weight="0.3"
+            android:layout_margin="10dp"
+            android:text="Rahul Patil"
+            android:textAllCaps="false"
+             />
+
+        <Button
+            android:layout_height="0dp"
+            android:layout_width="match_parent"
+            android:layout_weight="0.3"
+            android:layout_margin="10dp"
+            android:text="OK"
+            android:textColor="#f00"
+            android:textAllCaps="false"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>
+
+
+
