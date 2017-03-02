@@ -1,4 +1,4 @@
-package com.example.rahulpatil.myapplication;
+package com.example.rahulpatil.newandroidproject;
 
 import org.junit.Test;
 

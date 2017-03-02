@@ -1,4 +1,4 @@
-package com.example.nestedlayout;
+package com.example.rahulpatil.newandroidproject;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
