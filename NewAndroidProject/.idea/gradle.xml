@@ -9,7 +9,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activitylifecycle" />
+            <option value="$PROJECT_DIR$/animation" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/provideresourceown" />
+            <option value="$PROJECT_DIR$/providingresource" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
