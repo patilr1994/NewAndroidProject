@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentAndIntentFilters</string>
+    <string name="btnstrt">Start</string>
+    <string name="btnStrt">Start</string>
+</resources>
