@@ -12,8 +12,15 @@
             <option value="$PROJECT_DIR$/activitylifecycle" />
             <option value="$PROJECT_DIR$/animation" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/fragmentlifecycle" />
+            <option value="$PROJECT_DIR$/intentandintentfilters" />
+            <option value="$PROJECT_DIR$/myservices" />
             <option value="$PROJECT_DIR$/provideresourceown" />
             <option value="$PROJECT_DIR$/providingresource" />
+            <option value="$PROJECT_DIR$/sensors" />
+            <option value="$PROJECT_DIR$/simplevalueresources" />
+            <option value="$PROJECT_DIR$/sqlitedatabase" />
+            <option value="$PROJECT_DIR$/uithread" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

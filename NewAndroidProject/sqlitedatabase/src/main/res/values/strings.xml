@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLiteDatabase</string>
+    <string name="btnInsert">Insert</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDisplay">Display</string>
+    <string name="btnDelete">Delete</string>
+    <string name="edtMyAge">Age</string>
+    <string name="edtMyName">Name</string>
+</resources>

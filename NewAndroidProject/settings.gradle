@@ -1,1 +1,1 @@
-include ':app', ':animation', ':activitylifecycle', ':providingresource', ':provideresourceown'
+include ':app', ':animation', ':activitylifecycle', ':providingresource', ':provideresourceown', ':simplevalueresources', ':fragmentlifecycle', ':uithread', ':intentandintentfilters', ':sqlitedatabase', ':myservices', ':sensors'

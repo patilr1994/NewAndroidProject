@@ -6,8 +6,15 @@
       <module fileurl="file://$PROJECT_DIR$/activitylifecycle/activitylifecycle.iml" filepath="$PROJECT_DIR$/activitylifecycle/activitylifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/animation/animation.iml" filepath="$PROJECT_DIR$/animation/animation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentlifecycle/fragmentlifecycle.iml" filepath="$PROJECT_DIR$/fragmentlifecycle/fragmentlifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentandintentfilters/intentandintentfilters.iml" filepath="$PROJECT_DIR$/intentandintentfilters/intentandintentfilters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myservices/myservices.iml" filepath="$PROJECT_DIR$/myservices/myservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/provideresourceown/provideresourceown.iml" filepath="$PROJECT_DIR$/provideresourceown/provideresourceown.iml" />
       <module fileurl="file://$PROJECT_DIR$/providingresource/providingresource.iml" filepath="$PROJECT_DIR$/providingresource/providingresource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensors/sensors.iml" filepath="$PROJECT_DIR$/sensors/sensors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplevalueresources/simplevalueresources.iml" filepath="$PROJECT_DIR$/simplevalueresources/simplevalueresources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitedatabase/sqlitedatabase.iml" filepath="$PROJECT_DIR$/sqlitedatabase/sqlitedatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uithread/uithread.iml" filepath="$PROJECT_DIR$/uithread/uithread.iml" />
     </modules>
   </component>
 </project>

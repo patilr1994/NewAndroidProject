@@ -33,11 +33,16 @@ public class MainActivity extends AppCompatActivity {
     public void onConfigurationChanged(Configuration newConfig) {
         super.onConfigurationChanged(newConfig);
 
-        if (newConfig.orientation == Configuration.ORIENTATION_LANDSCAPE) {
+        if (newConfig.orientation == Configuration.ORIENTATION_PORTRAIT) {
             ( (ImageView)findViewById(R.id.imageView)).setImageResource(R.drawable.ic_boy);
 
         }
-        else {
+        else if (newConfig.orientation == Configuration.ORIENTATION_LANDSCAPE) {
+            ( (ImageView)findViewById(R.id.imageView)).setImageResource(R.drawable.ic_girl);
+
+        }
+
+        else{
             ( (ImageView)findViewById(R.id.imageView)).setImageResource(R.drawable.ic_kids_couple);
         }
     }
