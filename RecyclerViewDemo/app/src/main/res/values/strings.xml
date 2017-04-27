@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string-array name="name">
+        <item>Rahul</item>
+        <item>Priya</item>
+        <item>Sandeep</item>
+        <item>Ajinkya</item>
+
+    </string-array>
+    <string-array name="cname">
+        <item>C1</item>
+        <item>C2</item>
+        <item>C3</item>
+        <item>C4</item>
+
+    </string-array>
+</resources>
